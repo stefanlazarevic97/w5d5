@@ -1,6 +1,7 @@
 def eighties_b_movies
   # List all the movies from 1980-1989 with scores falling between 3 and 5
   # (inclusive). Show the id, title, year, and score.
+  Movie
   
 end
 
